@@ -2,6 +2,8 @@
 
 Learn the basics of git workflow:
 
+Greetings: May you succeed in whatever you do.
+
 1. **Fork** the repo onto your own github account  
 (maybe you already did it)
 
